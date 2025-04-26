@@ -2,6 +2,7 @@
 
 - ⟢ 𝙳𝚞𝚍𝚊 𝙼𝚊𝚛𝚊𝚗𝚐𝚘𝚗𝚒 ˚₊‧
 - ✧ Estudando HTML.
+- ✧ ADS na Unicesuamar 
 - ⸝⸝ 19Y ⋆ !!
 - ˗ˏˋTrabalho com contabilidade há 4 anos!!ˎˊ˗
 
