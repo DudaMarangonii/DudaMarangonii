@@ -7,7 +7,7 @@
 - ˗ˏˋTrabalho com contabilidade há 4 anos!!ˎˊ˗
 
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=DudaMarangoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=DudaMarangonii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1)
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=DudaMarangonii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2)
 
 <img src="https://media.discordapp.net/attachments/1344839129753718925/1365480163596570665/cat.gif?ex=680d7600&is=680c2480&hm=9c7010d3ccc83ea2941e7e5726bd8e6d5117ece8163aaddb6c18cdb4f3346f58&=&width=141&height=141" alt="Cat GIF" align="right" width="141" height="141" />
