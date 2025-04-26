@@ -12,4 +12,3 @@
 
 <img src="https://media.discordapp.net/attachments/1344839129753718925/1365480163596570665/cat.gif?ex=680d7600&is=680c2480&hm=9c7010d3ccc83ea2941e7e5726bd8e6d5117ece8163aaddb6c18cdb4f3346f58&=&width=141&height=141" alt="Cat GIF" align="right" width="141" height="141" />
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8bb51b&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ma.marangoni_/)
