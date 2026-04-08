@@ -6,7 +6,6 @@
 
 
 
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=DudaMarangonii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2)
 
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8bb51b&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/maria-eduarda-marangoni-65424a362/)
